@@ -1,0 +1,16 @@
+body {
+  background-image: url(6.gif);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 3px 3px 3px blue;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+.left {
+  /* border: 1px solid; */
+}
+.right {
+  /* border: 1px solid; */
+}
